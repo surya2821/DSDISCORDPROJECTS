@@ -1,0 +1,2 @@
+pip install matplotlib seaborn plotly pandas numpy
+pip install kaleido
